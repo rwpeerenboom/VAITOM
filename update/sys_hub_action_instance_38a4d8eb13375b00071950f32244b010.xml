@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>549822431324030039a039ed9344b085</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Notify on Service Severity">a5ffc86f13f35b00071950f32244b0f1</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>38a4d8eb13375b00071950f32244b010</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_instance_38a4d8eb13375b00071950f32244b010</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-10 19:32:52</sys_updated_on>
+        <ui_id>d16817a0-bd1a-45b7-b228-0c8b1f3cb4fd</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=38a4d8eb13375b00071950f32244b010"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>01a4d8eb13375b00071950f32244b032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:49:21</sys_updated_on>
+        <value>https://outlook.office.com/webhook/56db14af-d8d6-4a75-af4c-cbdae187a36a@8bcff170-9979-491e-8683-d8ced0850bad/IncomingWebhook/b4e6d1d9b141426a9d4f464fab7ae2e0/3b85dd36-c0f8-4f77-8006-2efeffcecaa0</value>
+        <variable display_value="">d90f79c713e0030039a039ed9344b0f1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>194b2d6113846700071950f32244b02c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:15:42</sys_updated_on>
+        <value>See Status</value>
+        <variable display_value="">859822431324030039a039ed9344b0f7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>4da4d8eb13375b00071950f32244b031</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:09:23</sys_updated_on>
+        <value/>
+        <variable display_value="">f90ff9c713e0030039a039ed9344b0b0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>554b2d6113846700071950f32244b02c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-09-19 06:24:21</sys_updated_on>
+        <value>https://outlook.office.com/webhook/301fb934-bc68-4f5c-ba88-46fa7ca15b23@8bcff170-9979-491e-8683-d8ced0850bad/IncomingWebhook/be8493fa4ac34ed9904e73b989581073/3b85dd36-c0f8-4f77-8006-2efeffcecaa0</value>
+        <variable display_value="">689822431324030039a039ed9344b088</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>85a4d8eb13375b00071950f32244b031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:49:21</sys_updated_on>
+        <value>ITOM Service Notification</value>
+        <variable display_value="">290ff9c713e0030039a039ed9344b08c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>9d4b2d6113846700071950f32244b02b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:17:27</sys_updated_on>
+        <value>Application Service Notification</value>
+        <variable display_value="">f49822431324030039a039ed9344b0bb</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>38a4d8eb13375b00071950f32244b010</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>c1a4d8eb13375b00071950f32244b032</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:51:07</sys_updated_on>
+        <value>See Status</value>
+        <variable display_value="">790ff9c713e0030039a039ed9344b0bc</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=38a4d8eb13375b00071950f32244b010"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_action_name</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>05a4d8eb13375b00071950f32244b031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:49:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_23be39c713e0030039a039ed9344b058</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_action_name</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>1d4b2d6113846700071950f32244b02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:15:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_549822431324030039a039ed9344b085</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_action_url</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>8da4d8eb13375b00071950f32244b030</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:13:23</sys_updated_on>
+        <table>var__m_sys_hub_action_input_23be39c713e0030039a039ed9344b058</table>
+        <value>https://{{47dd9847-2b66-4c7b-aebc-7297c0fab99c.url}}.service-now.com/$sn-va-web-client-app.do</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_action_url</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>954b2d6113846700071950f32244b02b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:23:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_549822431324030039a039ed9344b085</table>
+        <value>https://{{47dd9847-2b66-4c7b-aebc-7297c0fab99c.url}}.service-now.com/$sn-va-web-client-app.do?sysparm_skip_load_history=true</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_message</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>f0a4d8eb13375b00071950f32244b030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:49:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_23be39c713e0030039a039ed9344b058</table>
+        <value>{{Created or Updated_1.current.name}} is in critical state.  </value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_message</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>1d4b2d6113846700071950f32244b02a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-21 18:30:26</sys_updated_on>
+        <table>var__m_sys_hub_action_input_549822431324030039a039ed9344b085</table>
+        <value>{{Created or Updated_1.current.name}} service is in critical state.  Click below to interact with a virtual agent on the topic of "Application Service Status".</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_title</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>c9a4d8eb13375b00071950f32244b030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:49:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_23be39c713e0030039a039ed9344b058</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_title</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>d14b2d6113846700071950f32244b02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:15:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_549822431324030039a039ed9344b085</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_webhook_url</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-14 06:49:21</sys_created_on>
+        <sys_id>41a4d8eb13375b00071950f32244b031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-14 06:49:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_23be39c713e0030039a039ed9344b058</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_webhook_url</field>
+        <id>38a4d8eb13375b00071950f32244b010</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>594b2d6113846700071950f32244b02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:15:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_549822431324030039a039ed9344b085</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

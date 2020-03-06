@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get ServiceNow Instance Name</description>
+        <internal_name>get_servicenow_instance_name</internal_name>
+        <label_cache>[{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].i}}","label":"step➛Script step➛i","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].in}}","label":"step➛Script step➛in","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].ins}}","label":"step➛Script step➛ins","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].inst}}","label":"step➛Script step➛inst","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].insta}}","label":"step➛Script step➛insta","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instan}}","label":"step➛Script step➛instan","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instanc}}","label":"step➛Script step➛instanc","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instance}}","label":"step➛Script step➛instance","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instanceN}}","label":"step➛Script step➛instanceN","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instanceNa}}","label":"step➛Script step➛instanceNa","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instanceNam}}","label":"step➛Script step➛instanceNam","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].instanceName}}","label":"step➛Script step➛instanceName","type":"step","ref":""}]</label_cache>
+        <master>true</master>
+        <name>Get ServiceNow Instance Name</name>
+        <outputs/>
+        <outputs/>
+        <parent_action display_value="Get ServiceNow Instance Name">b8e721ad13446700071950f32244b004</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:08:36</sys_created_on>
+        <sys_id>d5a9aded13446700071950f32244b093</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Get ServiceNow Instance Name</sys_name>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_d5a9aded13446700071950f32244b093</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:12:54</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5a9aded13446700071950f32244b093"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d5a9aded13446700071950f32244b093"/>
+    <sys_element_mapping action="delete_multiple" query="id=d5a9aded13446700071950f32244b093"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>url</field>
+        <id>d5a9aded13446700071950f32244b093</id>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:08:38</sys_created_on>
+        <sys_id>39a9aded13446700071950f32244b0f2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:12:54</sys_updated_on>
+        <table>var__m_sys_hub_action_output_d5a9aded13446700071950f32244b093</table>
+        <value>{{step[988fe637-5f43-4749-8388-2443ea7866ab].instanceName}}</value>
+    </sys_element_mapping>
+</record_update>

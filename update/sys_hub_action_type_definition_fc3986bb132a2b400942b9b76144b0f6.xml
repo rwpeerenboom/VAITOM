@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from>a3d1a17b13662b400942b9b76144b0c6</copied_from>
+        <copied_from_name>Get ServiceNow Instance Name</copied_from_name>
+        <description>Get ServiceNow Instance Name</description>
+        <internal_name>get_itom_application_status_topic_sysid</internal_name>
+        <label_cache>[{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].s}}","label":"step➛Script step➛s","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].sy}}","label":"step➛Script step➛sy","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].sys}}","label":"step➛Script step➛sys","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].sysc}}","label":"step➛Script step➛sysc","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscs}}","label":"step➛Script step➛syscs","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscst}}","label":"step➛Script step➛syscst","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscsto}}","label":"step➛Script step➛syscsto","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstop}}","label":"step➛Script step➛syscstop","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstopi}}","label":"step➛Script step➛syscstopi","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstopic}}","label":"step➛Script step➛syscstopic","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>7b591eff136a2b400942b9b76144b05b</latest_snapshot>
+        <master_snapshot>5f7c8abf132a2b400942b9b76144b002</master_snapshot>
+        <name>Get ITOM Application Status Topic SysID</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-30 02:49:46</sys_created_on>
+        <sys_id>fc3986bb132a2b400942b9b76144b0f6</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>Get ITOM Application Status Topic SysID</sys_name>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_fc3986bb132a2b400942b9b76144b0f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 04:00:29</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=fc3986bb132a2b400942b9b76144b0f6"/>
+    <sys_variable_value action="delete_multiple" query="document_key=fc3986bb132a2b400942b9b76144b0f6"/>
+    <sys_element_mapping action="delete_multiple" query="id=fc3986bb132a2b400942b9b76144b0f6"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>url</field>
+        <id>fc3986bb132a2b400942b9b76144b0f6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-30 02:49:52</sys_created_on>
+        <sys_id>8e39c6bb132a2b400942b9b76144b0d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 03:01:23</sys_updated_on>
+        <table>var__m_sys_hub_action_output_fc3986bb132a2b400942b9b76144b0f6</table>
+        <value>{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstopic}}</value>
+    </sys_element_mapping>
+</record_update>

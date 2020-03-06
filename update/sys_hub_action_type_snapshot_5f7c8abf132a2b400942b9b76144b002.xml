@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get ServiceNow Instance Name</description>
+        <internal_name>get_itom_application_status_topic_sysid</internal_name>
+        <label_cache>[{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].s}}","label":"step➛Script step➛s","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].sy}}","label":"step➛Script step➛sy","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].sys}}","label":"step➛Script step➛sys","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].sysc}}","label":"step➛Script step➛sysc","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscs}}","label":"step➛Script step➛syscs","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscst}}","label":"step➛Script step➛syscst","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscsto}}","label":"step➛Script step➛syscsto","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstop}}","label":"step➛Script step➛syscstop","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstopi}}","label":"step➛Script step➛syscstopi","type":"step","ref":""},{"name":"{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstopic}}","label":"step➛Script step➛syscstopic","type":"step","ref":""}]</label_cache>
+        <master>true</master>
+        <name>Get ITOM Application Status Topic SysID</name>
+        <outputs/>
+        <outputs/>
+        <parent_action display_value="Get ITOM Application Status Topic SysID">fc3986bb132a2b400942b9b76144b0f6</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-30 03:04:09</sys_created_on>
+        <sys_id>5f7c8abf132a2b400942b9b76144b002</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Get ITOM Application Status Topic SysID</sys_name>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_5f7c8abf132a2b400942b9b76144b002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 03:04:09</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f7c8abf132a2b400942b9b76144b002"/>
+    <sys_variable_value action="delete_multiple" query="document_key=5f7c8abf132a2b400942b9b76144b002"/>
+    <sys_element_mapping action="delete_multiple" query="id=5f7c8abf132a2b400942b9b76144b002"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>url</field>
+        <id>5f7c8abf132a2b400942b9b76144b002</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-30 03:04:09</sys_created_on>
+        <sys_id>6b7c8abf132a2b400942b9b76144b022</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 03:04:09</sys_updated_on>
+        <table>var__m_sys_hub_action_output_5f7c8abf132a2b400942b9b76144b002</table>
+        <value>{{step[988fe637-5f43-4749-8388-2443ea7866ab].syscstopic}}</value>
+    </sys_element_mapping>
+</record_update>

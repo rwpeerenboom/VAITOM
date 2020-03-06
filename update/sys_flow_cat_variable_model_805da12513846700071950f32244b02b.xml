@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>885da12513846700071950f32244b02a</id>
+        <name>Notify on Service Severity</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:24:38</sys_created_on>
+        <sys_id>805da12513846700071950f32244b02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notify on Service Severity</sys_name>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_805da12513846700071950f32244b02b</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:24:38</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

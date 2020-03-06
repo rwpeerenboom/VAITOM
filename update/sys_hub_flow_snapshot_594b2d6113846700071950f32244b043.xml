@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Notify when Service Severity is Critical.  Added Post to Slack.</description>
+        <internal_name>notify_on_service_severity</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current.name","label":"Trigger➛Application Service Record➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"cmdb_ci_service_discovered","column_name":"name"},{"name":"224f57b5-668c-409f-95ec-d40e8b57660b.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"224f57b5-668c-409f-95ec-d40e8b57660b.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"47dd9847-2b66-4c7b-aebc-7297c0fab99c.url","label":"1➛Instance Name","type":"string","base_type":"string"}]</label_cache>
+        <master>true</master>
+        <name>Notify on Service Severity</name>
+        <outputs/>
+        <parent_flow display_value="Notify on Service Severity">a5ffc86f13f35b00071950f32244b0f1</parent_flow>
+        <remote_trigger_id/>
+        <run_as/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:42</sys_created_on>
+        <sys_id>594b2d6113846700071950f32244b043</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Notify on Service Severity</sys_name>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_594b2d6113846700071950f32244b043</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 21:45:20</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=594b2d6113846700071950f32244b043"/>
+    <sys_variable_value action="delete_multiple" query="document_key=594b2d6113846700071950f32244b043"/>
+</record_update>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Slack Post Service Detail">72769420136aa380215170d66144b07e</action_type>
+        <action_type_parent display_value="Slack Post Service Detail">dbe3506c132aa380215170d66144b020</action_type_parent>
+        <comment/>
+        <compiled_snapshot>72769420136aa380215170d66144b07e</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Notify on Service Severity">594b2d6113846700071950f32244b043</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>efe97f13132ea7400942b9b76144b03b</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_instance_efe97f13132ea7400942b9b76144b03b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 04:01:56</sys_updated_on>
+        <ui_id>53a50f68-2e60-4343-99b1-1617ea0037be</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=efe97f13132ea7400942b9b76144b03b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>efe97f13132ea7400942b9b76144b03b</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>2fe97f13132ea7400942b9b76144b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 21:45:20</sys_updated_on>
+        <value>https://hooks.slack.com/services/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</value>
+        <variable display_value="">32769420136aa380215170d66144b081</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>efe97f13132ea7400942b9b76144b03b</document_key>
+        <order>6</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>efe97f13132ea7400942b9b76144b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 21:45:20</sys_updated_on>
+        <value>Check Current State</value>
+        <variable display_value="">0f769420136aa380215170d66144b0de</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=efe97f13132ea7400942b9b76144b03b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>action_url</field>
+        <id>efe97f13132ea7400942b9b76144b03b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>63e97f13132ea7400942b9b76144b042</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 04:01:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_72769420136aa380215170d66144b07e</table>
+        <value>https://{{47dd9847-2b66-4c7b-aebc-7297c0fab99c.url}}.service-now.com/$sn-va-web-client-app.do?sysparm_topic={{0353e206-5d89-44eb-83ba-8d710cd3dc5d.url}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_additional_message</field>
+        <id>efe97f13132ea7400942b9b76144b03b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>27e97f13132ea7400942b9b76144b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 21:45:20</sys_updated_on>
+        <table>var__m_sys_hub_action_input_72769420136aa380215170d66144b07e</table>
+        <value>{{Created or Updated_1.current.name}}service is in critical state.</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_webhook_url</field>
+        <id>efe97f13132ea7400942b9b76144b03b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>e7e97f13132ea7400942b9b76144b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 21:45:20</sys_updated_on>
+        <table>var__m_sys_hub_action_input_72769420136aa380215170d66144b07e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>button_text</field>
+        <id>efe97f13132ea7400942b9b76144b03b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 21:45:20</sys_created_on>
+        <sys_id>abe97f13132ea7400942b9b76144b042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 21:45:20</sys_updated_on>
+        <table>var__m_sys_hub_action_input_72769420136aa380215170d66144b07e</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

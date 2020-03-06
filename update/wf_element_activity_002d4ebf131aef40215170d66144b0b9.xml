@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_element_activity">
+    <wf_element_activity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <attributes/>
+        <base_provider display_value="SFTP">93df5731bf200200d4dfd69f9a073963</base_provider>
+        <category/>
+        <checked_out_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</checked_out_by>
+        <default_height/>
+        <default_width/>
+        <description/>
+        <image>images/heisenberg_icons/workflow_ie8/provider_sftp.png</image>
+        <input_meta/>
+        <input_process_script/>
+        <input_transform>{"command":"Copy file","source":"","source_port":"22","source_directory":"","source_files":"","excluded_files":"","source_file_path":"","target_host":"","target_port":"22","target_directory":"","target_file_path":"","temp_file_postfix":"","is_directory":"false","include_subfolders":"false","file_attribute_uid":"","file_attribute_gid":"","file_attribute_permissions":"","file_attribute_atime":"","file_attribute_mtime":"","file_attribute_size":"","source_credential_tag":"","target_credential_tag":"","midCapabilities":""}</input_transform>
+        <local_variables/>
+        <name>Try FTP</name>
+        <output_meta/>
+        <output_process_script/>
+        <output_transform/>
+        <processing_script/>
+        <sample_payloads>{}</sample_payloads>
+        <short_description>Try FTP</short_description>
+        <style/>
+        <sys_class_name>wf_element_activity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-17 16:51:34</sys_created_on>
+        <sys_id>002d4ebf131aef40215170d66144b0b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Try FTP</sys_name>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>wf_element_activity_002d4ebf131aef40215170d66144b0b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-17 16:51:34</sys_updated_on>
+        <version_container_id>153d82bf131aef40215170d66144b0aa</version_container_id>
+    </wf_element_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=002d4ebf131aef40215170d66144b0b9"/>
+    <wf_versionable action="INSERT_OR_UPDATE">
+        <checked_out>2018-12-17 16:51:34</checked_out>
+        <checked_out_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</checked_out_by>
+        <published>false</published>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-17 16:51:34</sys_created_on>
+        <sys_id>1d3d82bf131aef40215170d66144b0ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-17 16:51:34</sys_updated_on>
+        <valid_from/>
+        <valid_to/>
+        <version>1</version>
+        <version_container_id>153d82bf131aef40215170d66144b0aa</version_container_id>
+        <wf_element_definition display_value="Try FTP">002d4ebf131aef40215170d66144b0b9</wf_element_definition>
+    </wf_versionable>
+</record_update>

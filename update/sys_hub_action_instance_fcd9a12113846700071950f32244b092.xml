@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get ServiceNow Instance Name">d5a9aded13446700071950f32244b093</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>d5a9aded13446700071950f32244b093</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Notify on Service Severity">a5ffc86f13f35b00071950f32244b0f1</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:09:23</sys_created_on>
+        <sys_id>fcd9a12113846700071950f32244b092</sys_id>
+        <sys_mod_count>60</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_instance_fcd9a12113846700071950f32244b092</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-10 19:32:52</sys_updated_on>
+        <ui_id>47dd9847-2b66-4c7b-aebc-7297c0fab99c</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=fcd9a12113846700071950f32244b092"/>
+</record_update>

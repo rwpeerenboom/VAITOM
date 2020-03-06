@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="cmdb_ci_service_discovered">severity=1^severityCHANGESTO1<item endquery="false" field="severity" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="false" field="severity" goto="false" newquery="false" operator="CHANGESTO" or="false" value="1"/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>true</on_update>
+        <run_when_setting/>
+        <run_when_user_list/>
+        <run_when_user_setting/>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-08-20 18:15:44</sys_created_on>
+        <sys_id>7d4b2d6113846700071950f32244b0e2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_7d4b2d6113846700071950f32244b0e2</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-08-20 18:24:31</sys_updated_on>
+        <table>cmdb_ci_service_discovered</table>
+    </sys_flow_record_trigger>
+</record_update>

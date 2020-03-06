@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get ITOM Application Status Topic SysID">5f7c8abf132a2b400942b9b76144b002</action_type>
+        <action_type_parent display_value="Get ITOM Application Status Topic SysID">fc3986bb132a2b400942b9b76144b0f6</action_type_parent>
+        <comment/>
+        <compiled_snapshot>5f7c8abf132a2b400942b9b76144b002</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Notify on Service Severity">594b2d6113846700071950f32244b043</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-30 04:01:55</sys_created_on>
+        <sys_id>69b9963313aa2b400942b9b76144b001</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Virtual Agent ITOM" source="x_snc_va_itom">122ec67913fb1b0058efb1422244b09f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Virtual Agent ITOM">122ec67913fb1b0058efb1422244b09f</sys_scope>
+        <sys_update_name>sys_hub_action_instance_69b9963313aa2b400942b9b76144b001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-30 04:01:56</sys_updated_on>
+        <ui_id>0353e206-5d89-44eb-83ba-8d710cd3dc5d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=69b9963313aa2b400942b9b76144b001"/>
+</record_update>
